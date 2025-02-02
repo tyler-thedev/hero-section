@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?cs=srgb&dl=pexels-goumbik-616401.jpg&fm=jpg);
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 250px;
+    margin-bottom: 250px;
+    width: 600px;
+}
+.para-1{
+    font-size: 50px;
+    font-family: "Bebas Neue", serif;
+}
+p{
+    font-weight: bold;
+    color: black;
+}
+input{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
